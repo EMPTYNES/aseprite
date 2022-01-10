@@ -86,4 +86,4 @@ jobs:
         # Artifact name
         name: lol.zip
         # Destination path
-        path: .
+        path: lol.zip
