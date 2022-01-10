@@ -74,9 +74,9 @@ jobs:
       # Filename for archive
         filename: lol.zip
       # Base path for archive files
-        path: .
+        path: ./bin/
     # Working directory before zipping
-        directory: .
+        directory: ../
     # List of excluded files / directories
     # Tool to use for archiving
         type: zip
