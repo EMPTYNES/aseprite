@@ -43,7 +43,7 @@ jobs:
       shell: bash
       run: |
         cd build && ninja
-       - name: Prepare For Zip
+    - name: Prepare For Zip
       shell: bash
       run: |
         cd bin
